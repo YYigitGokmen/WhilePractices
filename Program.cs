@@ -1,7 +1,7 @@
 ﻿
 
 int i = 0;
-while (i <= 9)
+while (i <= 10)
 {
     i++;
     Console.WriteLine("Kendime inanıyorum, ben bu yazılım işini hallederim!");
